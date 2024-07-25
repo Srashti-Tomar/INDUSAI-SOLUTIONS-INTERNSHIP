@@ -7,11 +7,13 @@ Easy Transfer - Effortless Money Transfers
 Project Overview-
 Easy Transfer is a web application designed to provide users with a seamless and secure way to send and receive money. This project includes an HTML, CSS, and JavaScript implementation for the front-end interface.
 
-Usage-
-Navigate through the website to learn about the features.
-Use the contact form to send messages.
-Click the "Get Started" button in the hero section to see an alert.
+## Usage
+- Navigate through the website to learn about the features.
+- Use the contact form to send messages.
+- Click the "Get Started" button in the hero section to see an alert.
+- *New Instruction:* Follow the on-screen prompts to complete your transaction.
 
+  
 Design Choices
 Structure: The webpage uses HTML for structure, CSS for styling, and JavaScript for interactivity.
 Header and Navigation: The header has a transparent black background for a sleek look. The logo and navigation links are white for contrast.
